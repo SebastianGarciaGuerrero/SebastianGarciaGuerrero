@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1 align="center">Hola, soy Sebastián García. </h1>
 
 <!--
 **SebastianGarciaGuerrero/SebastianGarciaGuerrero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
