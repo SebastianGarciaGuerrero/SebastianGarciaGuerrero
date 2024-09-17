@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola!, Mi nombre es Sebastián García Guerrero</h1>
-<h3 align="center">Soy un desarrollador web con experiencia en FrontEnd y BackEnd, especializado en tecnologías como React, Express, y Tailwind CSS. He liderado proyectos de E-commerce, optimizando el rendimiento web y la eficiencia en la entrega de productos. Actualmente, estoy trabajando en un proyecto de gestión de inventarios, aprendiendo TypeScript, y planificando despliegue en AWS. Apasionado por el aprendizaje continuo y la innovación.</h3>
+<h3 align="center">Soy un desarrollador web con experiencia en FrontEnd y BackEnd, especializado en el stack PERN (PostgreSQL, Express, React, Node.js). He liderado proyectos de E-commerce, optimizando el rendimiento web y mejorando la UX. Actualmente, estoy trabajando en un proyecto de gestión de inventarios, aprendiendo TypeScript y planificando el despliegue en AWS. Apasionado por el aprendizaje continuo y la innovación.</h3>
 
 - 🔭 Actualmente trabajando en [un gestor de inventarios](https://github.com/SebastianGarciaGuerrero/inventario)
 
