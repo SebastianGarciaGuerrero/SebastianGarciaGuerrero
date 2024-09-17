@@ -3,11 +3,11 @@
 
 - 🔭 Actualmente trabajando en [un gestor de inventarios](https://github.com/SebastianGarciaGuerrero/inventario)
 
-- 🌱 Actualmente aprendiendo sobre **AWS, Python, PHP y Angular.**
+- 🌱 Actualmente aprendiendo sobre **AWS, Python, PHP y TypeScript.**
 
-- 👯 Buscando colaborar en **proyectos FrontEnd, BackEnd e Ingeniería de la Nube.**
+- 👯 Buscando colaborar en **proyectos PERN, Móviles e Ingeniería de la Nube.**
 
-- 👨‍💻 Todos mi pryectos disponibles en [https://portfolio-delta-mocha-66.vercel.app/](https://portfolio-delta-mocha-66.vercel.app/)
+- 👨‍💻 Todos mi pryectos disponibles en mi [Portafolio/]([https://portfolio-delta-mocha-66.vercel.app/](https://portfolio-sebastiangarciaguerreros-projects.vercel.app/))
 
 - 📫 Como contactarme **seba.garcia.g@gmail.com**
 
