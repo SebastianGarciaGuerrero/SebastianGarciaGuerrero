@@ -7,7 +7,7 @@
 
 - 👯 Buscando colaborar en **proyectos PERN, Móviles e Ingeniería de la Nube.**
 
-- 👨‍💻 Todos mi pryectos disponibles en mi [Portafolio/]([https://portfolio-delta-mocha-66.vercel.app/](https://portfolio-sebastiangarciaguerreros-projects.vercel.app/))
+- 👨‍💻 Todos mi pryectos disponibles en mi [portafolio]([https://portfolio-delta-mocha-66.vercel.app/](https://portfolio-sebastiangarciaguerreros-projects.vercel.app/))
 
 - 📫 Como contactarme **seba.garcia.g@gmail.com**
 
