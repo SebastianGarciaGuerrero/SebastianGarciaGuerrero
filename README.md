@@ -7,7 +7,7 @@
 
 - 👯 Buscando colaborar en **proyectos PERN, Móviles e Ingeniería de la Nube.**
 
-- 👨‍💻 Proyectos destacados en mi [Portafolio](https://portfolio-sebastiangarciaguerreros-projects.vercel.app/)
+- 👨‍💻 Proyectos destacados en mi [Portafolio](https://www.sebastiangarcia.cl/)
 
 - 📫 Como contactarme **seba.garcia.g@gmail.com**
 
