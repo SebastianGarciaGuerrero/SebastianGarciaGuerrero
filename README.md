@@ -23,7 +23,7 @@ Soy un Desarrollador Frontend especializado en el ecosistema **React**, con la c
 
 Mi enfoque actual está en cerrar la brecha entre la ingeniería y el diseño. No solo escribo código; estoy formándome activamente en **UX/UI** (Google/Coursera) para asegurar que mis aplicaciones no solo funcionen rápido, sino que sean intuitivas y accesibles.
 
-- 🔭 **Trabajando en:** [Gestor de Inventarios](https://github.com/SebastianGarciaGuerrero/inventario) (Fullstack).
+- 🔭 **Trabajando en:** Crear apps para facilitar la vida de las personas.
 - 🎓 **Estudiando:** Diseño de Experiencia de Usuario (UX/UI) y profundizando en **TypeScript**.
 - 💼 **Busco:** Roles de Frontend Developer donde pueda aportar visión de producto y manejo de datos.
 
