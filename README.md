@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Sebastián%20García&fontSize=70&fontAlignY=40&desc=Frontend%20Developer%20%7C%20UX/UI%20Student%20%7C%20Database%20Handler&descAlignY=60&descAlign=50&fontColor=ffffff" alt="Header Sebastian Garcia"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Sebastián%20García&fontSize=70&fontAlignY=40&desc=Frontend%20Developer%20%7C%20UX/UI%20Student%20%7C%20Database%20Handler&descAlignY=60&descAlign=50&fontColor=ffffff" alt="Header Sebastian Garcia Guerrero"/>
 </div>
 
 <h3 align="center">
