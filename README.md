@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=230&section=header&text=Sebasti%C3%A1n%20Garc%C3%ADa&fontSize=68&fontAlignY=38&desc=Desarrollador%20de%20Soluciones%20con%20IA%20%7C%20Full-Stack%20Python%20%26%20React&descAlignY=58&fontColor=ffffff" alt="Sebastian Garcia"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=230&section=header&text=Sebasti%C3%A1n%20Garc%C3%ADa&fontSize=68&fontAlignY=38&desc=Desarrollador%20de%20Soluciones%20con%20IA%20-%20Full-Stack%20Python%20y%20React&descAlignY=58&fontColor=ffffff" alt="Sebastian Garcia"/>
 </div>
 
 <h3 align="center">
@@ -59,6 +59,16 @@ Reemplazo de la gestión en Excel por un sistema real: modelado de **16 tablas +
 
 </div>
 
+### 🧑‍💻 Lenguajes principales
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
 ---
 
 ### 📊 Estadísticas de GitHub
