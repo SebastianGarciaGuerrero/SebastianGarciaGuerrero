@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Sebastián%20García&fontSize=70&fontAlignY=40&desc=Desarrollador%20de%20Soluciones%20%7C%20Full-Stack%20(PERN%20%2B%20Python)%20%7C%20Datos%20%26%20Automatización&descAlignY=60&descAlign=50&fontColor=ffffff" alt="Header Sebastian Garcia Guerrero"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=230&section=header&text=Sebasti%C3%A1n%20Garc%C3%ADa&fontSize=68&fontAlignY=38&desc=Desarrollador%20de%20Soluciones%20con%20IA%20%7C%20Full-Stack%20Python%20%26%20React&descAlignY=58&fontColor=ffffff" alt="Sebastian Garcia"/>
 </div>
 
 <h3 align="center">
-   Construyo software que resuelve problemas reales: del dato a la interfaz.
+   Construyo software e integro IA para resolver problemas reales: del dato a la interfaz.
 </h3>
 
 <div align="center">
@@ -19,23 +19,21 @@
 ### 🚀 Sobre mí
 
 👋 **¡Hola! Soy Sebastián.**
-Soy un **desarrollador de soluciones**. Mi objetivo no es escribir código bonito, sino resolver problemas: entender un proceso que hoy vive en planillas de Excel o en pasos manuales, y convertirlo en un sistema que la gente realmente use.
+Soy un **desarrollador de soluciones**. Mi objetivo no es escribir código bonito, sino resolver problemas: tomar un proceso que hoy vive en planillas de Excel o en pasos manuales y convertirlo en un sistema que la gente realmente use.
 
-Empecé en el Frontend (**React / TypeScript**) y desde ahí bajé a todas las capas: hoy diseño **bases de datos**, levanto **APIs con Python (FastAPI)** y despliego con **Docker**. Ese recorrido completo —del modelo de datos a la pantalla— es lo que me permite pensar en producto y no solo en tareas.
+Empecé en el Frontend (**React / TypeScript**) y bajé a todas las capas: hoy diseño **bases de datos**, levanto **APIs con Python (FastAPI)**, despliego con **Docker** e **integro modelos de IA** (LLMs, APIs de OpenAI/Anthropic) para automatizar tareas y crear funciones inteligentes dentro de los productos.
 
-- 🔭 **Trabajando en:** sistemas que reemplazan procesos manuales por software confiable (gestión, datos y automatización).
+- 🤖 **Foco actual:** integrar **IA generativa** en aplicaciones reales — automatización, asistentes y procesamiento de datos.
 - 🎓 **Estudiando:** **UX/UI** (Google/Coursera) y arquitectura backend, para que mis soluciones sean sólidas *y* fáciles de usar.
-- 🎯 **Mi enfoque:** generar soluciones tecnológicas de punta a punta, con foco en el impacto para el negocio y la persona.
+- 🎯 **Mi enfoque:** generar soluciones tecnológicas de punta a punta, con impacto medible para el negocio y la persona.
 
 ---
 
 ### 🧩 Proyecto destacado
 
 **🏥 Hadad 2.0 — Sistema de cobranza para un estudio jurídico**
-Reemplazo de la gestión en Excel por un sistema real: modelado de **16 tablas + vistas SQL**, backend **FastAPI** por capas (models / schemas / routers), **PostgreSQL** sobre **Docker**, reglas de negocio no negociables (soft-delete, historial legal inmutable, auditoría) y un frontend en **React**.
-`Python` · `FastAPI` · `PostgreSQL` · `SQLAlchemy` · `Docker` · `React`
-
-> *Un ejemplo concreto de mi enfoque: entender el problema del negocio → diseñar los datos → construir el sistema completo.*
+Reemplazo de la gestión en Excel por un sistema real: modelado de **16 tablas + vistas SQL**, backend **FastAPI** por capas, **PostgreSQL** sobre **Docker**, reglas de negocio no negociables (soft-delete, historial legal inmutable, auditoría) y frontend en **React** — con espacio para automatización e IA sobre los datos de cobranza.
+`Python` · `FastAPI` · `PostgreSQL` · `Docker` · `React`
 
 ---
 
@@ -43,14 +41,17 @@ Reemplazo de la gestión en Excel por un sistema real: modelado de **16 tablas +
 
 <div align="center">
 
-#### 🗄️ Backend, Datos & Arquitectura
-*El motor de la solución: dónde vive y cómo se estructura la información.*
+#### 🤖 IA & Automatización
+*Modelos de lenguaje aplicados a productos reales.*
 <br>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+
+#### 🗄️ Backend, Datos & Arquitectura
 <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,nodejs,express,docker&theme=dark" />
 
 #### 🎨 Frontend & Experiencia de Usuario
-*La cara visible: interfaces claras, accesibles y rápidas.*
-<br>
 <img src="https://skillicons.dev/icons?i=react,ts,js,tailwind,html,css,figma&theme=dark" />
 
 #### ☁️ Infraestructura & Herramientas
@@ -63,8 +64,8 @@ Reemplazo de la gestión en Excel por un sistema real: modelado de **16 tablas +
 ### 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SebastianGarciaGuerrero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160px" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGarciaGuerrero&layout=compact&theme=tokyonight&hide_border=true" height="160px" alt="Languages" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=SebastianGarciaGuerrero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Stats" />
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGarciaGuerrero&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" alt="Languages" />
 </div>
 
 <br>
