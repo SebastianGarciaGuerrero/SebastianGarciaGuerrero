@@ -16,9 +16,9 @@
 
 ---
 
-### 🚀 Sobre mí
+### Sobre mí
 
-👋 **¡Hola! Soy Sebastián.**
+ **¡Hola! Soy Sebastián.**
 Soy un **desarrollador de soluciones**. Mi objetivo no es escribir código bonito, sino resolver problemas: tomar un proceso que hoy vive en planillas de Excel o en pasos manuales y convertirlo en un sistema que la gente realmente use.
 
 Empecé en el Frontend (**React / TypeScript**) y bajé a todas las capas: hoy diseño **bases de datos**, levanto **APIs con Python (FastAPI)**, despliego con **Docker** e **integro modelos de IA** (LLMs, APIs de OpenAI/Anthropic) para automatizar tareas y crear funciones inteligentes dentro de los productos.
