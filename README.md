@@ -69,17 +69,3 @@ Reemplazo de la gestión en Excel por un sistema real: modelado de **16 tablas +
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
----
-
-### 📊 Estadísticas de GitHub
-
-<div align="center">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=SebastianGarciaGuerrero&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="Stats" />
-  <img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianGarciaGuerrero&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800&langs_count=8" alt="Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer" width="100%"/>
-</div>
